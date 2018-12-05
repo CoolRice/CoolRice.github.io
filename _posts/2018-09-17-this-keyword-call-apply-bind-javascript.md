@@ -268,4 +268,4 @@ sayAge() // TypeError: Cannot read property 'age' of undefined
 5.  是否在“严格模式”下？如果是，“this” 就是 undefined，如果不是，继续第 6 步。
 6.  JavaScript 很奇怪，“this” 会指向 “window” 对象。
 
-注：很多小伙伴评论没有讲到箭头函数，所以译者专门写了一篇作为补充，如有需要了解的请挪步[也谈箭头函数的 this 指向问题及相关](https://juejin.im/post/5ba24761e51d450e735e51f0)。
+注：很多小伙伴评论没有讲到箭头函数，所以译者专门写了一篇作为补充，如有需要了解的请挪步[也谈箭头函数的 this 指向问题及相关](https://coolrice.github.io/2018-09-20-talk-about-arrow-function/)。
