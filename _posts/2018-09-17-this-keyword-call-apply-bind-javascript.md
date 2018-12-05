@@ -2,10 +2,8 @@
 layout: post
 title: 译：this（他喵的）到底是什么 — 理解 JavaScript 中的 this、call、apply 和 bind
 tags: [JavaScript, this]
+bigimg: /img/2018-09-17-this-keyword-call-apply-bind-javascript.jpg
 ---
-
-
-![](https://user-gold-cdn.xitu.io/2018/9/17/165e574198587c6e?w=800&h=450&f=jpeg&s=291506)
 
 JavaScript 中最容易被误解的一点就是 `this` 关键字。在这篇文章中，你将会了解四种规则，弄清楚 `this` 关键字指的是什么。隐式绑定、显式绑定、new 绑定和 window 绑定。在介绍这些技术时，你还将学习一些 JavaScript 其他令人困惑的部分，例如 `.call`、`.apply`、`.bind`和 `new` 关键字。
 
