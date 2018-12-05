@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 理解JavaScript中的this、call、apply和bind
+title: [译] this（他喵的）到底是什么 — 理解 JavaScript 中的 this、call、apply 和 bind
 tags: [JavaScript, this]
 ---
 
