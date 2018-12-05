@@ -19,7 +19,6 @@ github:
 juejin:
   name: "掘金"
   baseURL: "https://juejin.im/"
-  icon: "fa-goodreads"
 
 twitter:
   name: "Twitter"
