@@ -16,10 +16,6 @@ github:
   baseURL: "https://github.com/"
   icon: "fa-github"
 
-juejin:
-  name: "掘金"
-  baseURL: "https://juejin.im/user/"
-
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
